@@ -1,0 +1,24 @@
+body {background-color:black ;
+}
+#mainNav {
+    background-color: #F39C12;
+    min-height: 4rem;
+}
+
+
+.masthead h1{font-size:3rem;}
+.masthead h2{font-size: 2rem;}
+h4:hover {color: #F39C12;}
+mx-2:hover {color: #F39C12;}
+
+.navbar {color:#F39C12; }
+.navbarResponsive {color:#F39C12; }
+.navbar-brand {font-size: 250%;}
+.featured-text {:#F39C12;}
+
+
+.Inicio-icono{
+    width: 50px;
+  position: fixed;
+  bottom: 10px;
+  right: 15px;}
